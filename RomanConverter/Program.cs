@@ -6,15 +6,16 @@ namespace Softwaredesign
 {
     class Program
     {
+        static int inp;
         static void Main(string[] args)
         {
 
             try
             {
-                var value = int.Parse(args[0]);
-                if (value < 1000 && value > 0)
+                inp = int.Parse(args[0]);
+                if (inp < 1000 && inp > 0)
                 {
-                    Console.WriteLine(GetRomanNumber(value));
+                    Console.WriteLine(GetRomanNumber(inp));
                 }
                 else
                 {
@@ -30,10 +31,7 @@ namespace Softwaredesign
             
             
         }
-
-        static string GetRomanNumber(int inp)
-        {
-
+        static string GetRomanHundred() {
             StringBuilder sb = new StringBuilder();
             if (inp >= 900)
             {     //false
@@ -53,13 +51,19 @@ namespace Softwaredesign
 
             if (inp >= 100)
             {     // true
-                while (inp >= 100)
+                do
                 {
                     sb.Append("C");    // "DCC"
                     inp -= 100; // inp = 48
                 }
+                while (inp >= 100);
             }
 
+            return sb.ToString();
+        }
+
+        static string GetRomanTenth() {
+            StringBuilder sb = new StringBuilder();
             if (inp >= 90)
             {  //false
                 sb.Append("XC");
@@ -84,7 +88,11 @@ namespace Softwaredesign
                     inp -= 10;
                 }
             }
+            return sb.ToString();
+        }
 
+        static string GetRomanOne() {
+            StringBuilder sb = new StringBuilder();
             if (inp >= 9)
             { // false
                 sb.Append("IX");
@@ -109,10 +117,17 @@ namespace Softwaredesign
                     inp -= 1; // inp = 0
                 }
             }
+            return sb.ToString();
+        }
+
+        static string GetRomanNumber(int inp)
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.Append(GetRomanHundred());
+            sb.Append(GetRomanTenth());
+            sb.Append(GetRomanOne());
 
             return sb.ToString();
-
-
         }
     }
 }
