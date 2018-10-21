@@ -1,0 +1,11 @@
+R:\RomanConverter\bin\Debug\netcoreapp2.1\RomanConverter.deps.json
+R:\RomanConverter\bin\Debug\netcoreapp2.1\RomanConverter.runtimeconfig.json
+R:\RomanConverter\bin\Debug\netcoreapp2.1\RomanConverter.runtimeconfig.dev.json
+R:\RomanConverter\bin\Debug\netcoreapp2.1\RomanConverter.dll
+R:\RomanConverter\bin\Debug\netcoreapp2.1\RomanConverter.pdb
+R:\RomanConverter\obj\Debug\netcoreapp2.1\RomanConverter.csprojAssemblyReference.cache
+R:\RomanConverter\obj\Debug\netcoreapp2.1\RomanConverter.csproj.CoreCompileInputs.cache
+R:\RomanConverter\obj\Debug\netcoreapp2.1\RomanConverter.AssemblyInfoInputs.cache
+R:\RomanConverter\obj\Debug\netcoreapp2.1\RomanConverter.AssemblyInfo.cs
+R:\RomanConverter\obj\Debug\netcoreapp2.1\RomanConverter.dll
+R:\RomanConverter\obj\Debug\netcoreapp2.1\RomanConverter.pdb
