@@ -8,11 +8,27 @@ namespace Softwaredesign
     {
         static void Main(string[] args)
         {
-            var value = int.Parse(args[0]);
 
-
-            Console.WriteLine(GetRomanNumber(value));
-
+            try
+            {
+                var value = int.Parse(args[0]);
+                if (value < 1000 && value > 0)
+                {
+                    Console.WriteLine(GetRomanNumber(value));
+                }
+                else
+                {
+                    Console.WriteLine("Input muss aus einer Zahl zwischen 0 und 1000 bestehen");
+                }
+            }
+            catch (FormatException e)
+            {
+                Console.Write(e.Message);
+                Console.WriteLine("Input darf nur aus zahlen bestehen");
+            }
+            
+            
+            
         }
 
         static string GetRomanNumber(int inp)
