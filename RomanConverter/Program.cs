@@ -1,16 +1,13 @@
 ﻿using System;
-using System.Diagnostics;
 using System.Text;
 using System.Collections;
 using System.Collections.Generic;
-using System.Collections.Specialized;
 
 namespace Softwaredesign
 {
     class Program
     {
         static int inp;
-
         static Dictionary<string, int> romanDecimalPairs = new Dictionary<string, int>() {
             {"CM", 900},
             {"D",  500},
@@ -25,10 +22,6 @@ namespace Softwaredesign
             {"IV", 4},
             {"I",  1},
         };
-        static bool isInRange(int valueToCheck)
-        {
-            return (valueToCheck > 0 && valueToCheck < 1000);
-        }
 
         static void Main(string[] args)
         {
@@ -44,9 +37,9 @@ namespace Softwaredesign
             catch (FormatException e)
             {
                 Console.WriteLine(e.Message + ". Input darf nur aus zahlen bestehen");
-            }                                    
+            }
         }
-        
+
         static string GetRomanNumber(int inp)
         {
             StringBuilder sb = new StringBuilder();
@@ -58,32 +51,22 @@ namespace Softwaredesign
                     inp -= converterPair.Value;
                 }
                 if (converterPair.Value == 100 || converterPair.Value == 10 || converterPair.Value == 1)
-                {   
+                {
                     // inp is an int, therefore calculation-result will already be int and no cast/parse is needed
                     int howManyTimes = inp / converterPair.Value;
                     for (int i = 0; i < howManyTimes; i++)
                     {
                         sb.Append(converterPair.Key);
                         inp -= converterPair.Value;
-                    }          
+                    }
                 }
             }
             return sb.ToString();
         }
+
+        static bool isInRange(int valueToCheck)
+        {
+            return (valueToCheck > 0 && valueToCheck < 1000);
+        }
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
