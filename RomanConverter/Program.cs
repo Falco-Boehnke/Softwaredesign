@@ -54,6 +54,9 @@ namespace Softwaredesign
             // aufrufen zu müssen
             foreach (var converterPair in romanDecimalPairs)
             {
+                
+                // FEHLER ENTDECKT -> Diese if-Abfrage als zweites und if(converterPair.Value == 100) etc. als erstes
+                // verbunden mit elseif
                 if (inp >= converterPair.Value)
                 {
                     sb.Append(converterPair.Key);
