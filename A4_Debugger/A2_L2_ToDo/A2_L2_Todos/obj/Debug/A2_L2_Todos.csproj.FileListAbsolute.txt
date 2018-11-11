@@ -1,0 +1,7 @@
+R:\visualstudio projects\Softwaredesign\A2_L2_Todos\A2_L2_Todos\bin\Debug\A2_L2_Todos.exe.config
+R:\visualstudio projects\Softwaredesign\A2_L2_Todos\A2_L2_Todos\bin\Debug\A2_L2_Todos.exe
+R:\visualstudio projects\Softwaredesign\A2_L2_Todos\A2_L2_Todos\bin\Debug\A2_L2_Todos.pdb
+R:\visualstudio projects\Softwaredesign\A2_L2_Todos\A2_L2_Todos\obj\Debug\A2_L2_Todos.csprojAssemblyReference.cache
+R:\visualstudio projects\Softwaredesign\A2_L2_Todos\A2_L2_Todos\obj\Debug\A2_L2_Todos.csproj.CoreCompileInputs.cache
+R:\visualstudio projects\Softwaredesign\A2_L2_Todos\A2_L2_Todos\obj\Debug\A2_L2_Todos.exe
+R:\visualstudio projects\Softwaredesign\A2_L2_Todos\A2_L2_Todos\obj\Debug\A2_L2_Todos.pdb
