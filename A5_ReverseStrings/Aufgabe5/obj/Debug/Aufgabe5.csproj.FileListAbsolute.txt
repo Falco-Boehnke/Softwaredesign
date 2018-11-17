@@ -1,0 +1,7 @@
+R:\visualstudio projects\Softwaredesign\Aufgabe5_Stringreverser\Aufgabe5\Aufgabe5\bin\Debug\Aufgabe5.exe.config
+R:\visualstudio projects\Softwaredesign\Aufgabe5_Stringreverser\Aufgabe5\Aufgabe5\bin\Debug\Aufgabe5.exe
+R:\visualstudio projects\Softwaredesign\Aufgabe5_Stringreverser\Aufgabe5\Aufgabe5\bin\Debug\Aufgabe5.pdb
+R:\visualstudio projects\Softwaredesign\Aufgabe5_Stringreverser\Aufgabe5\Aufgabe5\obj\Debug\Aufgabe5.csprojAssemblyReference.cache
+R:\visualstudio projects\Softwaredesign\Aufgabe5_Stringreverser\Aufgabe5\Aufgabe5\obj\Debug\Aufgabe5.csproj.CoreCompileInputs.cache
+R:\visualstudio projects\Softwaredesign\Aufgabe5_Stringreverser\Aufgabe5\Aufgabe5\obj\Debug\Aufgabe5.exe
+R:\visualstudio projects\Softwaredesign\Aufgabe5_Stringreverser\Aufgabe5\Aufgabe5\obj\Debug\Aufgabe5.pdb
