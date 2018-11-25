@@ -1,0 +1,7 @@
+R:\visualstudio projects\Softwaredesign\A6_Quiz\A6_Quiz\bin\Debug\A6_Quiz.exe.config
+R:\visualstudio projects\Softwaredesign\A6_Quiz\A6_Quiz\bin\Debug\A6_Quiz.exe
+R:\visualstudio projects\Softwaredesign\A6_Quiz\A6_Quiz\bin\Debug\A6_Quiz.pdb
+R:\visualstudio projects\Softwaredesign\A6_Quiz\A6_Quiz\obj\Debug\A6_Quiz.csprojAssemblyReference.cache
+R:\visualstudio projects\Softwaredesign\A6_Quiz\A6_Quiz\obj\Debug\A6_Quiz.csproj.CoreCompileInputs.cache
+R:\visualstudio projects\Softwaredesign\A6_Quiz\A6_Quiz\obj\Debug\A6_Quiz.exe
+R:\visualstudio projects\Softwaredesign\A6_Quiz\A6_Quiz\obj\Debug\A6_Quiz.pdb
