@@ -1,0 +1,7 @@
+D:\visualstudio projects\Softwaredesign\A8_Someoneelsesquiz\Quiz_v2\Quiz_v2\bin\Debug\Quiz_v2.exe.config
+D:\visualstudio projects\Softwaredesign\A8_Someoneelsesquiz\Quiz_v2\Quiz_v2\bin\Debug\Quiz_v2.exe
+D:\visualstudio projects\Softwaredesign\A8_Someoneelsesquiz\Quiz_v2\Quiz_v2\bin\Debug\Quiz_v2.pdb
+D:\visualstudio projects\Softwaredesign\A8_Someoneelsesquiz\Quiz_v2\Quiz_v2\obj\Debug\Quiz_v2.csprojAssemblyReference.cache
+D:\visualstudio projects\Softwaredesign\A8_Someoneelsesquiz\Quiz_v2\Quiz_v2\obj\Debug\Quiz_v2.csproj.CoreCompileInputs.cache
+D:\visualstudio projects\Softwaredesign\A8_Someoneelsesquiz\Quiz_v2\Quiz_v2\obj\Debug\Quiz_v2.exe
+D:\visualstudio projects\Softwaredesign\A8_Someoneelsesquiz\Quiz_v2\Quiz_v2\obj\Debug\Quiz_v2.pdb
