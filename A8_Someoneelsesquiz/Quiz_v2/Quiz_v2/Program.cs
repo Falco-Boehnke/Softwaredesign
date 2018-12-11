@@ -17,7 +17,7 @@ namespace Quiz_v2
             callToAction();
         }
 
-        static void sampleQuestions()
+        static void sampleQuestions()           //Einrücken
         {
             Quizelement sampleQuestion = new QuizSingle();
             sampleQuestion.question = "Welche der Planeten im Sonnensystem passen in den Platz zwischen Mond und Erde?";
@@ -60,7 +60,7 @@ namespace Quiz_v2
 
         }
 
-        static void callToAction()
+        static void callToAction()              //Vllt den Variablen Namen quizRunning zu quizIsRunning ändern. 
         {
             bool quizRunning = true;
 
