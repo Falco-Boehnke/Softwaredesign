@@ -9,7 +9,7 @@ namespace Quiz_v2
     class QuizBinary : Quizelement
     {
 
-        public override bool IsAnswerCorrect(int choice)
+        public override bool IsAnswerCorrect(int choice)  //der Variablenname ffs ist unverständlch und sollte eher den Zweck erklären 
         {
             bool ffs = false;
             if (choice == 1)
@@ -22,7 +22,7 @@ namespace Quiz_v2
             else
                 return false;
         }
-        public override bool show()
+        public override bool show()         //Methodennamen immer erster Buchstabe groß
         {
             Console.WriteLine(question + "Yes(1)/No(0)");
             Console.WriteLine();
@@ -31,7 +31,7 @@ namespace Quiz_v2
             return IsAnswerCorrect(choice);
         }
 
-        public override void createElement()
+        public override void createElement()             //Methodennamen immer erster Buchstabe groß
         {
             Console.WriteLine("Bitte Ja/Nein Frage eineben");
             string text = Console.ReadLine();
@@ -39,7 +39,7 @@ namespace Quiz_v2
 
             Console.WriteLine("Antwort korrekt (1) or nah (2)?");
             int choice = Int32.Parse(Console.ReadLine());
-            bool correctOrNah = false;
+            bool correctOrNah = false;                      //Ich verstehe zwar was gemeint ist mit Nah aber ich denke viele andere nicht 
 
             if (choice == 1)
                 correctOrNah = true;
