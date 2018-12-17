@@ -16,7 +16,14 @@ namespace Quiz_v2
         static void Main(string[] args)
         {
             questions = new List<Quizelement>();
-            filepath = @"../../QuizDatabase.json";
+           
+            CreateDefaultQuestions();
+            callToAction();
+        }
+        
+        static void CreateDefaultQuestions()
+        {
+         filepath = @"../../QuizDatabase.json";
 
             string result = string.Empty;
             using (StreamReader r = new StreamReader(filepath))
@@ -27,7 +34,6 @@ namespace Quiz_v2
             JsonSerializerSettings settings = new JsonSerializerSettings { TypeNameHandling = TypeNameHandling.All };
 
             questions = JsonConvert.DeserializeObject<List<Quizelement>>(json, settings);
-            callToAction();
         }
 
        
