@@ -1,0 +1,11 @@
+F:\visualstudio projects\Softwaredesign\A9_GenericTree\GenericTree\GenericTree\obj\Debug\netcoreapp2.1\GenericTree.csprojAssemblyReference.cache
+F:\visualstudio projects\Softwaredesign\A9_GenericTree\GenericTree\GenericTree\obj\Debug\netcoreapp2.1\GenericTree.csproj.CoreCompileInputs.cache
+F:\visualstudio projects\Softwaredesign\A9_GenericTree\GenericTree\GenericTree\obj\Debug\netcoreapp2.1\GenericTree.AssemblyInfoInputs.cache
+F:\visualstudio projects\Softwaredesign\A9_GenericTree\GenericTree\GenericTree\obj\Debug\netcoreapp2.1\GenericTree.AssemblyInfo.cs
+F:\visualstudio projects\Softwaredesign\A9_GenericTree\GenericTree\GenericTree\bin\Debug\netcoreapp2.1\GenericTree.deps.json
+F:\visualstudio projects\Softwaredesign\A9_GenericTree\GenericTree\GenericTree\bin\Debug\netcoreapp2.1\GenericTree.runtimeconfig.json
+F:\visualstudio projects\Softwaredesign\A9_GenericTree\GenericTree\GenericTree\bin\Debug\netcoreapp2.1\GenericTree.runtimeconfig.dev.json
+F:\visualstudio projects\Softwaredesign\A9_GenericTree\GenericTree\GenericTree\bin\Debug\netcoreapp2.1\GenericTree.dll
+F:\visualstudio projects\Softwaredesign\A9_GenericTree\GenericTree\GenericTree\bin\Debug\netcoreapp2.1\GenericTree.pdb
+F:\visualstudio projects\Softwaredesign\A9_GenericTree\GenericTree\GenericTree\obj\Debug\netcoreapp2.1\GenericTree.dll
+F:\visualstudio projects\Softwaredesign\A9_GenericTree\GenericTree\GenericTree\obj\Debug\netcoreapp2.1\GenericTree.pdb
