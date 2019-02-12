@@ -1,0 +1,282 @@
+[
+  {
+    "Lecturer": [
+      {
+        "Name": "Dell'Oro",
+        "_unavailabilityTimes": [
+          {
+            "_dayOfEntry": "Monday",
+            "_timeOfEntry": "First_Block"
+          },
+          {
+            "_dayOfEntry": "Thursday",
+            "_timeOfEntry": "Fourth_Block"
+          }
+        ],
+        "_teachingCourses": [
+          {
+            "Name": "GiS",
+            "TypeOfCourse": "Mandatory",
+            "NecessaryEquipment": "Smartboard"
+          },
+          {
+            "Name": "Softwaredesign",
+            "TypeOfCourse": "Mandatory",
+            "NecessaryEquipment": "Smartboard"
+          },
+          {
+            "Name": "GamedesignWorkshop",
+            "TypeOfCourse": "WPM",
+            "NecessaryEquipment": "None"
+          }
+        ]
+      },
+      {
+        "Name": "Schneider",
+        "_unavailabilityTimes": [
+          {
+            "_dayOfEntry": "Friday",
+            "_timeOfEntry": "Second_Block"
+          },
+          {
+            "_dayOfEntry": "Friday",
+            "_timeOfEntry": "Fourth_Block"
+          }
+        ],
+        "_teachingCourses": [
+          {
+            "Name": "Mathematik 2",
+            "TypeOfCourse": "Mandatory",
+            "NecessaryEquipment": "None"
+          },
+          {
+            "Name": "MINT-Praktikum",
+            "TypeOfCourse": "Mandatory",
+            "NecessaryEquipment": "Smartboard"
+          },
+          {
+            "Name": "Mathematik in Medien und Informatik",
+            "TypeOfCourse": "Mandatory",
+            "NecessaryEquipment": "None"
+          },
+          {
+            "Name": "Geometrische und statistische Modellierung",
+            "TypeOfCourse": "Mandatory",
+            "NecessaryEquipment": "None"
+          },
+          {
+            "Name": "Videotechnik",
+            "TypeOfCourse": "Mandatory",
+            "NecessaryEquipment": "Smartboard"
+          }
+        ]
+      },
+      {
+        "Name": "Zydorek",
+        "_unavailabilityTimes": [
+          {
+            "_dayOfEntry": "Tuesday",
+            "_timeOfEntry": "Fifth_Block"
+          },
+          {
+            "_dayOfEntry": "Tuesday",
+            "_timeOfEntry": "Sixth_Block"
+          },
+          {
+            "_dayOfEntry": "Saturday",
+            "_timeOfEntry": "First_Block"
+          },
+          {
+            "_dayOfEntry": "Tuesday",
+            "_timeOfEntry": "Second_Block"
+          }
+        ],
+        "_teachingCourses": [
+          {
+            "Name": "Medienökonomie",
+            "TypeOfCourse": "Mandatory",
+            "NecessaryEquipment": "None"
+          },
+          {
+            "Name": "MedienWirtschaft",
+            "TypeOfCourse": "Mandatory",
+            "NecessaryEquipment": "None"
+          },
+          {
+            "Name": "Marketing",
+            "TypeOfCourse": "Mandatory",
+            "NecessaryEquipment": "None"
+          },
+          {
+            "Name": "Mediale Gegenkultur",
+            "TypeOfCourse": "WPM",
+            "NecessaryEquipment": "None"
+          },
+          {
+            "Name": "Kommunikationswirtschaft",
+            "TypeOfCourse": "Mandatory",
+            "NecessaryEquipment": "None"
+          }
+        ]
+      },
+      {
+        "Name": "Lasowski",
+        "_teachingCourses": [
+          {
+            "Name": "Algorithmen und Datenstrukturen",
+            "TypeOfCourse": "Mandatory",
+            "NecessaryEquipment": "None"
+          },
+          {
+            "Name": "Wissenschaftliches Arbeiten",
+            "TypeOfCourse": "Mandatory",
+            "NecessaryEquipment": "Smartboard"
+          },
+          {
+            "Name": "Intro to Deep Learning",
+            "TypeOfCourse": "WPM",
+            "NecessaryEquipment": "None"
+          },
+          {
+            "Name": "Datenstrukturen",
+            "TypeOfCourse": "WPM",
+            "NecessaryEquipment": "None"
+          },
+          {
+            "Name": "Intro to Deep Learning 2",
+            "TypeOfCourse": "WPM",
+            "NecessaryEquipment": "Smartboard"
+          }
+        ]
+      },
+      {
+        "Name": "Fries",
+        "_teachingCourses": [
+          {
+            "Name": "Ideenentwicklung",
+            "TypeOfCourse": "WPM",
+            "NecessaryEquipment": "Smartboard"
+          },
+          {
+            "Name": "Mediengestaltung",
+            "TypeOfCourse": "Mandatory",
+            "NecessaryEquipment": "Smartboard"
+          },
+          {
+            "Name": "Photographie",
+            "TypeOfCourse": "WPM",
+            "NecessaryEquipment": "None"
+          }
+        ]
+      },
+      {
+        "Name": "Dittler",
+        "_teachingCourses": [
+          {
+            "Name": "E-Learning",
+            "TypeOfCourse": "WPM",
+            "NecessaryEquipment": "Smartboard"
+          },
+          {
+            "Name": "Medienpsychologie",
+            "TypeOfCourse": "Mandatory",
+            "NecessaryEquipment": "Smartboard"
+          },
+          {
+            "Name": "Bildverarbeitung in digitaler Astrofotografie",
+            "TypeOfCourse": "WPM",
+            "NecessaryEquipment": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "LectureRooms": [
+      {
+        "Name": "i0.15",
+        "Capacity": 80,
+        "AvailableEquipment": [ "None", "Smartboard" ]
+      },
+      {
+        "Name": "i0.13",
+        "Capacity": 40,
+        "AvailableEquipment": [ "None", "Smartboard" ]
+      },
+      {
+        "Name": "i0.14",
+        "Capacity": 40,
+        "AvailableEquipment": [ "None", "Smartboard" ]
+      },
+      {
+        "Name": "i0.16",
+        "Capacity": 80,
+        "AvailableEquipment": [ "None", "Smartboard" ]
+      },
+      {
+        "Name": "L1.05",
+        "Capacity": 40,
+        "AvailableEquipment": [ "None", "Smartboard" ]
+      },
+      {
+        "Name": "L2.05",
+        "Capacity": 30,
+        "AvailableEquipment": [ "None", "Smartboard" ]
+      },
+      {
+        "Name": "L2.09",
+        "Capacity": 30,
+        "AvailableEquipment": [ "None", "Smartboard" ]
+      }
+    ]
+  },
+  {
+    "StudentCohort": [
+      {
+        "Name": "MiB",
+        "Semester": "First_Semester",
+        "RequiredCourses": [
+          {
+            "Name": "Mathematik in Medien und Informatik"
+          },
+          {
+            "Name": "Medienpsychologie"
+          },
+          {
+            "Name": "GiS"
+          }
+        ]
+      },
+      {
+        "Name": "MiB",
+        "Semester": "Second_Semester",
+        "RequiredCourses": [
+          {
+            "Name": "Mediengestaltung"
+          },
+          {
+            "Name": "Wissenschaftliches Arbeiten"
+          },
+          {
+            "Name": "Marketing"
+          }
+        ]
+      },
+      {
+        "Name": "MKB",
+        "Semester": "Third_Semester",
+        "RequiredCourses": [
+          {
+            "Name": "Kommunikationswirtschaft"
+          },
+          {
+            "Name": "Softwaredesign"
+          },
+          {
+            "Name": "MedienWirtschaft"
+          }
+        ]
+      }
+    ]
+  }
+]

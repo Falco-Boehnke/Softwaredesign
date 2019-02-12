@@ -1,0 +1,10 @@
+G:\Softwaredesign\Abschlussarbeit\Abschlussarbeit\bin\Debug\Abschlussarbeit.exe.config
+G:\Softwaredesign\Abschlussarbeit\Abschlussarbeit\bin\Debug\Abschlussarbeit.exe
+G:\Softwaredesign\Abschlussarbeit\Abschlussarbeit\bin\Debug\Abschlussarbeit.pdb
+G:\Softwaredesign\Abschlussarbeit\Abschlussarbeit\bin\Debug\Newtonsoft.Json.dll
+G:\Softwaredesign\Abschlussarbeit\Abschlussarbeit\bin\Debug\Newtonsoft.Json.pdb
+G:\Softwaredesign\Abschlussarbeit\Abschlussarbeit\bin\Debug\Newtonsoft.Json.xml
+G:\Softwaredesign\Abschlussarbeit\Abschlussarbeit\obj\Debug\Abschlussarbeit.csproj.CoreCompileInputs.cache
+G:\Softwaredesign\Abschlussarbeit\Abschlussarbeit\obj\Debug\Abschlussarbeit.csproj.CopyComplete
+G:\Softwaredesign\Abschlussarbeit\Abschlussarbeit\obj\Debug\Abschlussarbeit.exe
+G:\Softwaredesign\Abschlussarbeit\Abschlussarbeit\obj\Debug\Abschlussarbeit.pdb
